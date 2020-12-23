@@ -1,8 +1,7 @@
-/target/
-/out/
-
-### IntelliJ IDEA ###
-.idea
-*.iws
+### IDEA ###
+.idea/*
 *.iml
-*.ipr
+*/target/*
+*/*.iml
+*/.gradle/*
+*/out/*
