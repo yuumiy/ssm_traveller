@@ -1,7 +1,0 @@
-com\zhong\ssm\controller\ProductController.class
-com\zhong\ssm\controller\LogAop.class
-com\zhong\ssm\controller\PermissionController.class
-com\zhong\ssm\controller\SysLogController.class
-com\zhong\ssm\controller\UserController.class
-com\zhong\ssm\controller\OrderController.class
-com\zhong\ssm\controller\RoleController.class
