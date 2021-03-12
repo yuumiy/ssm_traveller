@@ -1,8 +1,8 @@
 ### IDEA ###
-.idea/*
+.idea/
 *.iml
-*/target/*
+*/target/
 */*.iml
-*/.gradle/*
-*/out/*
+*/.gradle/
+*/out/
 out/
