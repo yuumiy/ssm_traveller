@@ -166,7 +166,7 @@
                 <div class="error-content">
 
                     <p>
-                        登录失败 , 你可以 <a href="${pageContext.request.contextPath}/login.jsp">返回到登录页面</a>
+                        密码错误 , 你可以 <a href="${pageContext.request.contextPath}/login.jsp">返回到登录页面</a>
                         重新登录
                     </p>
 
